@@ -1,0 +1,1 @@
+This extension makes it so that the BAC appears on the fraternities page, rather than the committees page, on [the GEWIS website](https://gewis.nl/).
